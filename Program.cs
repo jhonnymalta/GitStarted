@@ -11,10 +11,11 @@ namespace TestGIT
         static void Main(string[] args)
         {
             Console.WriteLine("holla Mundo!");
-            Console.ReadLine();
-            Console.WriteLine("Bom dia usuário");
+           
+
             Console.ReadKey();
             Console.WriteLine("como você esta hoje?");
+            Console.WriteLine("Tenha um bom dia!");
             Console.ReadKey();
         }
     }
