@@ -12,6 +12,8 @@ namespace TestGIT
         {
             Console.WriteLine("holla Mundo!");
             Console.ReadLine();
+            Console.WriteLine("Bom dia usuário");
+            Console.ReadKey();
         }
     }
 }
